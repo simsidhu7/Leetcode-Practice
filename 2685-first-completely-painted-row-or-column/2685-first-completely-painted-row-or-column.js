@@ -12,17 +12,22 @@ for (let i = 0; i < mat.length; i++) {
         }
     }
 
-const rowCount = [];
-const columnCount = [];
+// const rowCount = [];
+// const columnCount = [];
 
-for (let i = 0; i < mat.length; i++) 
-{
-    rowCount[i] = 0; 
-}
+//let rows = new Array(mat.length).fill(0)
+//let cols = new Array(mat[0].length).fill(0)
 
-for (let i = 0; i < mat[0].length; i++){
-    columnCount[i] = 0; 
-}
+let rowCount = new Array(mat.length).fill(0)
+let columnCount = new Array(mat[0].length).fill(0)
+// for (let i = 0; i < mat.length; i++) 
+// {
+//     rowCount[i] = 0; 
+// }
+
+// for (let i = 0; i < mat[0].length; i++){
+//     columnCount[i] = 0; 
+// }
 
  for (let i = 0; i < arr.length; i++) {
         const [row, col] = position.get(arr[i]);
