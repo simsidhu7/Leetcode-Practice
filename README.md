@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/simsidhu7/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
+## String
+|  |
+| ------- |
+| [3540-hash-divided-string](https://github.com/simsidhu7/Leetcode-Practice/tree/master/3540-hash-divided-string) |
+## Simulation
+|  |
+| ------- |
+| [3540-hash-divided-string](https://github.com/simsidhu7/Leetcode-Practice/tree/master/3540-hash-divided-string) |
 <!---LeetCode Topics End-->
