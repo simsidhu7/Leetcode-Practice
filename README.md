@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0482-license-key-formatting) |
 | [3540-hash-divided-string](https://github.com/simsidhu7/Leetcode-Practice/tree/master/3540-hash-divided-string) |
 ## Simulation
 |  |
