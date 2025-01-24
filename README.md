@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [2685-first-completely-painted-row-or-column](https://github.com/simsidhu7/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3540-hash-divided-string](https://github.com/simsidhu7/Leetcode-Practice/tree/master/3540-hash-divided-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
