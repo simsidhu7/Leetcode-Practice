@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/simsidhu7/Leetcode-Practice/tree/master/1153-product-sales-analysis-i) |
+| [1390-average-selling-price](https://github.com/simsidhu7/Leetcode-Practice/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/simsidhu7/Leetcode-Practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/simsidhu7/Leetcode-Practice/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/simsidhu7/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
