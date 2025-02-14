@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/simsidhu7/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0482-license-key-formatting](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0551-student-attendance-record-i) |
 | [3540-hash-divided-string](https://github.com/simsidhu7/Leetcode-Practice/tree/master/3540-hash-divided-string) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/simsidhu7/Leetcode-Practice/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/simsidhu7/Leetcode-Practice/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/simsidhu7/Leetcode-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/simsidhu7/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
