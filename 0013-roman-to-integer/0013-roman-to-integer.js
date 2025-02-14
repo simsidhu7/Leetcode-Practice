@@ -16,10 +16,10 @@ var romanToInt = function(s) {
         let current = romanValues[s[i]];
 
         if (current < prev) {
-            // Subtract if a smaller value before a larger one.
+// Subtract if a smaller value before a larger one.
             total -= current; 
         } else {
-            // Otherwise add it.
+//Add
             total += current; 
         }
 // Update the previous value.
